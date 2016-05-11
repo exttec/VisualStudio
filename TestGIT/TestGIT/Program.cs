@@ -10,7 +10,7 @@ namespace TestGIT
     {
         static void Main(string[] args)
         {
-            Console.Write("Test2");
+            Console.Write("Test3");
             Console.ReadLine();
         }
     }
