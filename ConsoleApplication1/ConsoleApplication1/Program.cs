@@ -42,7 +42,7 @@ namespace MojaAplikacja
                 Console.WriteLine(pietra[i]);   // konkretna wartosc z tablicy
                 i++;                            // inkrementujemy zeby wyszedł z petli
             }
-            Console.WriteLine("test");
+            Console.WriteLine("test2");
 
             Console.ReadLine();
 
