@@ -26,8 +26,6 @@ namespace METODY
 
                 Console.WriteLine(Dodawanie2(nowyObiekt));
                 Console.WriteLine("Jakis tekst");
-                Console.WriteLine("Jakis teks2t");
-
 
 
 
