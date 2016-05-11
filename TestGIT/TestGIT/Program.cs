@@ -11,10 +11,7 @@ namespace TestGIT
         static void Main(string[] args)
         {
             Console.Write("Test3");
-            Console.Write("Test32");
             Console.ReadLine();
-    
-
         }
     }
 }
